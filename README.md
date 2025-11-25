@@ -6,7 +6,7 @@ Projeto de Banco de Dados desenvolvido para a disciplina de Modelagem de Dados.
 ## Descrição
 Este projeto consiste na modelagem e implementação de um banco de dados para uma oficina de motos, visando controlar Ordens de Serviço, Estoque de Peças e Histórico de Clientes.
 
-## Tecnologias Utilizadas
+## Ferramentas Utilizadas
 * MySQL / SQL
 * Ferramenta de Modelagem: draw.io
 
